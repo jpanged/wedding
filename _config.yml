@@ -76,15 +76,16 @@ author:
 
 footer:
   links:
-    - label: "#HASHTAGHERE"
+    - label: "[#HASHTAGHERE]"
       icon: "fab fa-fw fa-instagram"
       url: "#HASHTAGHERE"
-    - label: "Rebekah"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/rebekah.handran/"
     - label: "Josiah"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/jpanged/"
+    - label: "Rebekah"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/rebekah.handran/"
+
 
 defaults:
   # _posts

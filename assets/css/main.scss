@@ -7,7 +7,7 @@
 $serif      : "Great Vibes", Georgia, Times, serif;
 $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
-$background-color: #F7D5D7;
+// $background-color: #F7D5D7;
 
 .masthead {
     background: #002F69;
@@ -15,6 +15,10 @@ $background-color: #F7D5D7;
 
 .masthead__inner-wrap nav {
     background: #002F69;
+}
+
+.greedy-nav a {
+    color: #F7D5D7 !important;
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
