@@ -114,3 +114,4 @@ tag_archive:
   path: /tags/
 
 logo: "/assets/images/castle_noland_vector.png"
+baseurl: ""
