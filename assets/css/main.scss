@@ -9,18 +9,37 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 
 // $background-color: #F7D5D7;
 
-.masthead {
-    background: #002F69;
-}
-
-.masthead__inner-wrap nav {
+.masthead, .masthead__inner-wrap nav {
     background: #002F69;
 }
 
 .greedy-nav a {
-    color: #F7D5D7 !important;
+    color: #ffffff !important;
+
 }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.site-logo img {
+    max-height: 1.5rem;
+    margin-right: 5px;
+}
+
+.search__toggle, .greedy-nav__toggle {
+    color: #ffffff;
+}
+
+.navicon, .navicon::before, .navicon::after {
+    background: #ffffff;
+}
+
+.greedy-nav .hidden-links {
+    background: #002F69;
+    width: 100%;
+    text-align: center;
+}
+
+.greedy-nav .visible-links {
+    font-size: medium;
+}

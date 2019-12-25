@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "RSVP"
+    url: /rsvp/
+  - title: "Our Story"
+    url: /story/
+  - title: "The Wedding"
+    url: /wedding/
+  - title: "Accommodations"
+    url: /accommodations/
+  - title: "Registry"
+    url: /registry/

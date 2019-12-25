@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Josiah & Rebekah
+title: Rebekah & Josiah
 email: pang.josiah@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Josiah and Rebekah are getting married on June 27, 2020! Find more
+  Rebekah & Josiah are getting married on June 27, 2020! Find more
   information and RSVP on the site.
 twitter_username: username
 github_username: jpanged
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Josiah & Rebekah"
+  name   : "Rebekah & Josiah"
   avatar : "/assets/images/jprh-square.jpg"
-  bio    : "Josiah and Rebekah are getting married!"
+  bio    : "Rebekah & Josiah are getting married!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -79,13 +79,12 @@ footer:
     - label: "[#HASHTAGHERE]"
       icon: "fab fa-fw fa-instagram"
       url: "#HASHTAGHERE"
-    - label: "Josiah"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/jpanged/"
     - label: "Rebekah"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/rebekah.handran/"
-
+    - label: "Josiah"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/jpanged/"
 
 defaults:
   # _posts
@@ -113,3 +112,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+logo: "/assets/images/castle_noland_vector.png"

@@ -26,7 +26,7 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">We'd love for you to celebrate with us. RSVP here!</h1>
+          <h1 id="page-title" class="page__title" itemprop="headline">Celebrate with us. RSVP here!</h1>
         </header>
       {% endunless %}
 
@@ -40,9 +40,7 @@ layout: default
           </aside>
         {% endif %}
         <!-- CONTENT -->
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeeeyvMIEuNGDq6uOdFA_goOfM1KmANN2u8D44T6pRltxb8PQ/viewform?embedded=true" width="640" height="929" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>        {{ content }}
-        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-      </section>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeeeyvMIEuNGDq6uOdFA_goOfM1KmANN2u8D44T6pRltxb8PQ/viewform?embedded=true" width="640" height="1181" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>      </section>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
