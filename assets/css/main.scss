@@ -7,19 +7,12 @@
 $serif      : "Great Vibes", Georgia, Times, serif;
 $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
-// $background-color: #F7D5D7;
-
-.masthead, .masthead__inner-wrap nav {
-    background: #002F69;
-}
-
-.greedy-nav a {
-    color: #ffffff !important;
-
-}
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+#main {
+    margin-top: 25px;
+}
 
 .site-logo img {
     max-height: 1.5rem;
@@ -34,12 +27,57 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     background: #ffffff;
 }
 
+.greedy-nav__toggle:hover .navicon, .greedy-nav__toggle:hover .navicon:before, .greedy-nav__toggle:hover .navicon:after {
+    background: #F7D5D7;
+}
+
+// Navigation bar
+.masthead {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    background: rgba(0, 47, 105, 0.95);
+}
+
+.greedy-nav a {
+    color: #ffffff;
+}
+
+.greedy-nav {
+    background: none;
+}
+
+// Hidden nav in hamburger menu
 .greedy-nav .hidden-links {
-    background: #002F69;
+    background: rgba(0, 47, 105, 0.95);
     width: 100%;
     text-align: center;
 }
 
 .greedy-nav .visible-links {
     font-size: medium;
+}
+
+.greedy-nav a:hover {
+    color: #F7D5D7;
+}
+
+.greedy-nav .visible-links a:before {
+    height: 2px;
+    background: #F7D5D7;
+}
+
+.half-page {
+    height: 50vh;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+// Splash page picture
+.index-splash-container {
+    height: 75vh;
+    background-image: url("/assets/images/jprh-33.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;    
 }
