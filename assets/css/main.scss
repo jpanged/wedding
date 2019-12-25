@@ -74,10 +74,21 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 }
 
 // Splash page picture
-.index-splash-container {
+.splash-container {
     height: 75vh;
-    background-image: url("../../assets/images/jprh-33.jpg");
+    // background-image: url("../../assets/images/jprh-33.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;    
 }
+
+.index-img {
+    background-image: url("../../assets/images/jprh-33.jpg");
+}
+
+// How splash image appears for mobile devices
+@media only screen and (max-width: 600px) {
+    .splash-container {
+        height: 50vh;
+    }
+  }
