@@ -79,11 +79,49 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     // background-image: url("../../assets/images/jprh-33.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 50% 50%;    
+    background-position: 50% 50%;   
+    position: relative; 
+    text-align: center;
 }
 
 .index-img {
     background-image: url("../../assets/images/jprh-33.jpg");
+}
+
+.rsvp-img {
+    background-image: url("../../assets/images/dshipfriends12.jpg");
+}
+
+.splash-txt {
+    position: absolute;
+    text-align: center;
+    color: #002F69;
+    width: 100%;
+    font-family: "Great Vibes";
+    font-size: 3em;
+    top: 2.5%;
+}
+
+.splash-btn {
+    position: absolute;
+    bottom: 1%;
+    background: none;
+    color: white;
+}
+
+.splash-btn:hover {
+    color: #F7D5D7;
+}
+
+.splash-btn:visited {
+    color: white;
+}
+
+:target {
+    display: block;
+    position: relative;
+    top: -100px; 
+    visibility: hidden;
 }
 
 // How splash image appears for mobile devices
@@ -91,4 +129,21 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     .splash-container {
         height: 50vh;
     }
+
+    .splash-txt {
+        font-size: 2.5em;
+    }
   }
+
+.index-container {
+    text-align: center;
+    margin: 4em 0 4em;
+}
+
+.index-container p {
+    margin: 0 0 0.5em;
+}
+
+.page__content {
+    text-align: center;
+}
