@@ -159,16 +159,16 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 
 // How splash image appears for mobile devices
 @media only screen and (max-width: 600px) {
-    .splash-container {
+    body .splash-container {
         height: 50vh;
     }
 
-    .splash-txt {
+    body .splash-txt {
         font-size: 2.5em;
         top: 10%;
     }
 
-    .img-circle {
-        width: 15em !important;
+    body .img-circle {
+        width: 15em;
     }
 }
