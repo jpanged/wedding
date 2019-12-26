@@ -124,17 +124,6 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     visibility: hidden;
 }
 
-// How splash image appears for mobile devices
-@media only screen and (max-width: 600px) {
-    .splash-container {
-        height: 50vh;
-    }
-
-    .splash-txt {
-        font-size: 2.5em;
-    }
-  }
-
 .index-container {
     text-align: center;
     margin: 4em 0 4em;
@@ -146,4 +135,15 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 
 .page__content {
     text-align: center;
+}
+
+// How splash image appears for mobile devices
+@media only screen and (max-width: 600px) {
+    .splash-container {
+        height: 50vh;
+    }
+
+    .splash-txt {
+        font-size: 2.5em;
+    }
 }
