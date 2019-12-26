@@ -10,6 +10,22 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// How splash image appears for mobile devices
+@media only screen and (max-width: 600px) {
+    .splash-container {
+        height: 50vh;
+    }
+
+    .splash-txt {
+        font-size: 2.5em;
+        top: 10%;
+    }
+
+    .img-circle {
+        width: 15em;
+    }
+}
+
 #main {
     margin-top: 25px;
 }
@@ -135,22 +151,6 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 
 .page__content {
     text-align: center;
-}
-
-// How splash image appears for mobile devices
-@media only screen and (max-width: 600px) {
-    .splash-container {
-        height: 50vh;
-    }
-
-    .splash-txt {
-        font-size: 2.5em;
-        top: 10%;
-    }
-
-    .img-circle {
-        width: 15em;
-    }
 }
 
 .img-circle {
