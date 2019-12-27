@@ -3,8 +3,8 @@ main:
     url: /rsvp/
   - title: "Our Story"
     url: /story/
-  - title: "The Wedding"
-    url: /wedding/
+  - title: "Wedding Party"
+    url: /party/
   - title: "Accommodations"
     url: /accommodations/
   - title: "Registry"
