@@ -23,6 +23,9 @@ github_username: jpanged
 minimal_mistakes_skin: default
 search: false
 
+# Google Analytics
+google_analytics: UA-155137144-1
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -78,7 +81,7 @@ footer:
   links:
     - label: "About This Site"
       icon: "fas fa-info-circle"
-      url: "/meta"
+      url: "https://jpanged.github.io/wedding/meta"
     - label: "#HandranToPang"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/explore/tags/HandranToPang/"

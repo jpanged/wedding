@@ -14,4 +14,9 @@
 <!-- custom fonts -->
 <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Montserrat&display=swap" rel="stylesheet">
 
+<!-- analytics -->
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 <!-- end custom head snippets -->
