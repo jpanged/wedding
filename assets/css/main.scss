@@ -102,6 +102,15 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     top: 2.5%;
 }
 
+.faq-splash-txt {
+    text-align: center;
+    color: #002F69;
+    width: 100%;
+    font-family: "Great Vibes";
+    font-size: 3em;
+    top: 2.5%;
+}
+
 .splash-btn {
     position: absolute;
     bottom: 1%;
@@ -115,13 +124,6 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 
 .splash-btn:visited {
     color: white;
-}
-
-:target {
-    display: block;
-    position: relative;
-    top: -100px; 
-    visibility: hidden;
 }
 
 .index-container {
@@ -176,4 +178,11 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     body .form-container {
         padding-bottom: 150%;
     }
+}
+
+:target {
+    display: block;
+    position: relative;
+    top: -100px; 
+    visibility: hidden;
 }

@@ -5,7 +5,9 @@ main:
     url: /story/
   - title: "Wedding Party"
     url: /party/
-  - title: "Accommodations"
-    url: /accommodations/
   - title: "Registry"
     url: /registry/
+  - title: "Accommodations"
+    url: /accommodations/
+  - title: "FAQs"
+    url: /faq/

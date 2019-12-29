@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<div id="main" role="main">
+
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <section class="page__content" itemprop="text">
+      <h1 class="splash-txt" style="position: relative !important;">
+        Frequently Asked Questions (FAQs)
+      </h1>
+
+      <h3>How/when do I RSVP?</h3>
+      <p>Please RSVP using the link on this site at the top by the date listed on your invitation.</p>
+      <h3>What will the weather be like?</h3>
+      <p>SLO is known for its warm and sunny weather, so we're expecting temperatures from low to high 70s. It gets a little colder once the sun sets, but nothing too crazy. We recommend dressing in layers or bringing an extra jacket just in case! <a href="https://www.accuweather.com/en/us/san-luis-obispo-ca/93401/june-weather/331999" target="_blank">Here</a> is last year's forecast around this time in SLO.</p>
+      <h3>Where should I stay?</h3>
+      <p>We have a list of nearby hotels on our Accommodations page, but SLO also has a wide variety of options available including great Airbnbs. </p>
+      <h3>Can I park at the venue?</h3>
+      <p>Yes, there is plenty of parking.</p>
+      <h3>Can I bring my kids?</h3>
+      <p>Yes, if they are listed on your invitation. Please contact us if you have questions!</p>
+      <h3>When should I get there?</h3>
+      <p>The ceremony will start at 2pm. You're welcome to come earlier around 1:45pm to find parking and get a seat.</p>
+      <h3>What if I have a dietary restriction?</h3>
+      <p>If you have specific concerns or allergies, please make sure to mention it in your RSVP. Contact us if you have additional concerns.</p>
+      <h3>Will alcohol be served?</h3>
+      <p>Yes.</p>
+      <h3>Is there a wedding hashtag?</h3>
+      <p>Yep! Feel free to use #HandranToPang to help share your night with us and others!</p>
+      <h3>Can I bring a plus one?</h3>
+      <p>Unfortunately there is a limit on the guests we can invite. We have listed the names of those invited specifically on the invitation. If you feel we left out someone important, let us know, but understand that our limitations may mean our hands are tied.</p>
+      <h3>When is the wedding?</h3>
+      <p>June 27, 2019, 2pm</p>
+      <h3>Where is the wedding?</h3>
+      <p>The ceremony and reception will be held at Castle Noland. </p>
+      <h3>Can I take pictures?</h3>
+      <p>We have paid for professional photography to capture how the wedding looks, but we have invited you so you may capture how it feels. Use our hashtag! We ask you silence your electronics during our ceremony to ensure you are in the moment. Some of these photos will be posted online afterwards for your viewing purposes. </p>
+      <h3>Where are you registered? </h3>
+      <p>Check out our Registry page for more information!</p>
+      <h3>Do I have to RSVP? Can't I just tell you I'm going to be there (or not)?</h3>
+      <p>Yes.</p>
+      <h3>What do I do if something changes and I can/can't make it after I have RSVPed?</h3>
+      <p>We understand things come up. Just contact us right away so we can make changes.</p>
+      <h3>Will there be dancing?</h3>
+      <p>Yes.</p>
+      <h3>I have more questions! </h3>
+      <p>Please contact us with any additional questions you have. <br>Josiah's email is pang.josiah@gmail.com</p>
+    </section>
+  </article>
+</div>
