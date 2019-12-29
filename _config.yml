@@ -78,7 +78,7 @@ footer:
   links:
     - label: "About This Site"
       icon: "fas fa-info-circle"
-      url: "../meta"
+      url: "/meta"
     - label: "#HandranToPang"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/explore/tags/HandranToPang/"
