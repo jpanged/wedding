@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<div class="registry-img splash-container">
+    <h1 class="splash-txt">
+        Registry
+    </h1>
+    <!-- <a class="splash-btn" href="#details">
+        <i class="fa fa-angle-down"></i>
+    </a> -->
+  </div>
+
+<div id="main" role="main">
+
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <section class="page__content" itemprop="text">
+
+      <p>Because we’re moving to Scotland, we don’t currently have an address to ship to. Also because we’re moving to Scotland, we won’t have anything and would greatly appreciate all the help we can get! </p>
+      <p>As much as we’d love linens and dinnerware, we’ve dedicated our registry to our move. If you’re able, you can contribute as much or as little as you can. And if not, your presence on our big day is enough. Either way, we’re so grateful for each and every one of you.</p>
+      <p>We thought 红包, Amazon, and IKEA gift cards would give us the most options once we find a place in the UK. You can use josiahandrebekah@gmail.com as the recipient email if you decide to choose an eGift.</p>
+      <i>Note: If you’re planning to help us out with a gift card, please make sure it is through the UK site, as US gift cards will not work in Scotland! </i> 
+      
+      <div class="img-flex-container">
+        <a href="https://www.amazon.co.uk/Amazon-Gift-Voucher-Greeting-Card-Birthday-Christmas-Top-Up/b?ie=UTF8&node=1571304031" target="_blank">
+          <img class="img-flex" src="/assets/images/amazonuk.jpg">
+        </a>
+        <a href="https://giftcard.ikea.co.uk/SmallestFlatpack/ByEmail/SmallestFlatpack/" target="_blank">
+          <img class="img-flex" src="/assets/images/ikea.jpg">
+        </a>
+      </div>
+
+    </section>
+  </article>
+</div>

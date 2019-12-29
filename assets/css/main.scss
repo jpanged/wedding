@@ -92,6 +92,11 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     background-image: url("../../assets/images/dshipfriends12.jpg");
 }
 
+.registry-img {
+    background-image: url("../../assets/images/jprh2018-68.jpg");
+    background-position: 50% 75%;   
+}
+
 .splash-txt {
     position: absolute;
     text-align: center;
@@ -158,6 +163,23 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+.social-icons li a {
+    text-transform: none;
+}
+
+.img-flex-container {
+    margin: 4em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.img-flex {
+    align-self: center;
+    flex: 1;
+    max-width: 250px;
 }
 
 // How splash image appears for mobile devices

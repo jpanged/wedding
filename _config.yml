@@ -76,9 +76,9 @@ author:
 
 footer:
   links:
-    - label: "[#HASHTAGHERE]"
+    - label: "#HandranToPang"
       icon: "fab fa-fw fa-instagram"
-      url: "#HASHTAGHERE"
+      url: "https://www.instagram.com/explore/tags/HandranToPang/"
     - label: "Rebekah"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/rebekah.handran/"
