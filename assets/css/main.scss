@@ -170,13 +170,13 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 }
 
 .img-flex-container {
-    margin: 4em;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
 
 .img-flex {
+    margin: 2em;
     align-self: center;
     flex: 1;
     max-width: 250px;
