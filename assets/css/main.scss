@@ -133,7 +133,7 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 
 .index-container {
     text-align: center;
-    margin: 4em 0 4em;
+    margin: 0 0 4em;
 }
 
 .index-container p {
@@ -182,6 +182,10 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     max-width: 250px;
 }
 
+.anchor {
+    padding-top: 4em; 
+}
+
 // How splash image appears for mobile devices
 @media only screen and (max-width: 600px) {
     body .splash-container {
@@ -200,11 +204,4 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     body .form-container {
         padding-bottom: 150%;
     }
-}
-
-:target {
-    display: block;
-    position: relative;
-    top: -100px; 
-    visibility: hidden;
 }
