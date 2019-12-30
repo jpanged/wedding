@@ -8,15 +8,14 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
-
-<div class="rsvp-img splash-container" role="img" aria-label="Rebekah and Josiah holding hands and walking together">
-  <h1 class="splash-txt">
-      Celebrate with us!
-  </h1>
-  <!-- <a class="splash-btn" href="#rsvp">
-      <i class="fa fa-angle-down"></i>
-  </a> -->
-</div>
+<div class="story-img splash-container" role="img" aria-label="Josiah proposing to Rebekah">
+    <h1 class="splash-txt">
+        More about us
+    </h1>
+    <!-- <a class="splash-btn" href="#registry">
+        <i class="fa fa-angle-down"></i>
+    </a> -->
+  </div>
 
 <div id="main" role="main">
 
@@ -27,9 +26,11 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
 
     <section class="page__content" itemprop="text">
-      <div class="form-container">
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeeeyvMIEuNGDq6uOdFA_goOfM1KmANN2u8D44T6pRltxb8PQ/viewform?embedded=true" width="640" height="804" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-      </div>
+
+      <h1>Our Story</h1>
+
+      {{ content }}
+
     </section>
   </article>
 </div>
