@@ -57,5 +57,4 @@ We understand things come up. Just contact us right away so we can make changes.
 Yes.
 
 ### I have more questions!
-Please contact us with any additional questions you have.  
-Josiah's email is *pang.josiah@gmail.com*
+Please contact us with any additional questions you have at *questions@rebekahandjosiah.love*.

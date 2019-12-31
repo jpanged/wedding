@@ -91,6 +91,9 @@ footer:
     - label: "Josiah"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/jpanged/"
+    - label: "questions@rebekahandjosiah.love"
+      icon: "far fa-envelope"
+      url: "mailto:questions@rebekahandjosiah.love"
 
 defaults:
   # _posts
