@@ -195,6 +195,104 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     padding-top: 4em; 
 }
 
+figure {
+    flex-direction: column;
+    align-items: center;
+    margin: 0 0;
+}
+
+figure img {
+    margin-bottom: 0.5em;
+}
+
+figcaption {
+    font-family: "Montserrat", serif;
+    font-size: 0.75em;
+    color: #898c8f;
+}
+
+.img-flex-sm {
+    flex: 1;
+    margin: 0.25em;
+}
+
+.img-flex-md {
+    flex: 2;
+    margin: 0.25em;
+    min-width: 20em;
+}
+
+.img-flex-lg {
+    flex: 3;
+    margin: 0.25em;
+}
+
+.img-sm {
+    max-width: 12.5em;
+}
+
+.img-md {
+    max-width: 25em;
+}
+
+.img-lg {
+    max-width: 50em;
+}
+
+.btn--past {
+    background-color: #4B5F6D;
+    color: #fff;
+}
+
+.btn--present {
+    background-color: #002F69;
+    color: #fff;
+}
+
+.btn--future {
+    background-color: #BA8D1C;
+    color: #fff;
+}
+
+.btn--proposal {
+    background-color: #F7D5D7;
+    color: #fff;
+}
+
+.btn--past:visited {
+    background-color: #4B5F6D;
+    color: #fff;
+}
+
+.btn--present:visited {
+    background-color: #002F69;
+    color: #fff;
+}
+
+.btn--future:visited {
+    background-color: #BA8D1C;
+    color: #fff;
+}
+
+.btn--proposal:visited {
+    background-color: #F7D5D7;
+    color: #000;
+}
+
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
 // How splash image appears for mobile devices
 @media only screen and (max-width: 600px) {
     body .splash-container {
