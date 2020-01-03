@@ -108,3 +108,6 @@ We’d love to share some moments with you, whether you could be there or not. I
         {% include image.html url="/assets/images/proposal/jprh-group-1.JPG" description="The Whole Gang" %}
     </div>
 </div>
+
+<br>
+<a href="https://photos.app.goo.gl/eMFrdjcBd9HvfPp56" class="btn btn--primary" target="_blank">More Proposal Pictures</a>
