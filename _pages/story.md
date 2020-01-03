@@ -24,20 +24,17 @@ We also thought it would be fun to share more about the proposal and include a v
 
 **R:** Josiah and I have been at the same school since preschool, but our story begins in the percussion section in junior high band. For those of you who know, percussion can get a little boring sometimes while counting rests that we took the opportunity to get to know each other. As awkward pre-teens we slowly built a friendship, joking with each other and sharing about our interests. Josiah was the first to introduce me to Doctor Who, The Office, and Coldplay, all of which are still my favorites today. We grew up together, went to school dances together, and really got to play a big role in each others lives, shaping us into the people we are today. He was and will always be my best friend. 
 
-<!-- <div class="img-flex-container">
-    <div class="img-flex-sm">
-    {% include image.html url="/assets/images/sadies.jpg" description="Our first picture together, circa 2013" %}
-    </div>
-    <div class="img-flex-sm">
-    {% include image.html url="/assets/images/sadies.jpg" description="Our first picture together, circa 2013" %}
-    </div>
-</div> -->
-
-
 We started dating my junior year of high school; he asked me to be his girlfriend on February 6th, 2016, the day I took my ACT. From there, Josiah went off to college at Cal Poly, and we were long distance for a year. Though it was rough, I think it really challenged our relationship and helped us grow closer and stronger. When it was time for me to choose a college, I really wanted a school with a great Animal Science program, a strong fellowship and community, and  nice weather; Cal Poly checked all of my boxes. I’m very blessed that God provided a place for us to both thrive in our majors, serve together, and just be in the same place at the same time. 
 
 ## Our Present
 
+**J:** God continued to be faithful to us as I we stepped into our first taste of adulthood. Like Rebekah said, I started college a year before she did, choosing to study Computer Science and Entrepreneurship at Cal Poly in the fall of 2016. I quickly found a home away from home with Cru in Epic, an Asian-American fellowship at many university campuses. The mix of new challenges academically and socially truly forced me to redefine my faith and choose to pursue faith for myself. At the intersection of career and faithfulness, choosing the latter has brought only joy and provision. 
+
+When Rebekah eventually chose to study at Cal Poly a year later, real and genuine community is what grew our faith and ultimately our relationship. Before college, our relationship very much felt like our own and isolated from others. Choosing to bring others into our lives and our relationship helped us work on the things that would have the most long term impact. 
+
+I realized how much I sucked at long distance, so we spent much of the 2017-18 school year stepping back to rebuild our relationship. Just like strong and healthy vine must have their branches pruned to bear good fruit, strong biblical relationships must endure the work of [pruning](https://www.thegospelcoalition.org/article/god-prunes-those-he-loves/){:target="_blank"} to expose the areas of our hearts that need work. 
+
+Through the ups and downs, we’ve really learned to cherish and value the opportunities to grow closer to one another and Christ through conflict leading to conflict resolution. Living in community has played an immense role in our relationship, and we’re so thankful for the lifelong friends we’ve made both in and out of the classroom.
 
 
 ## Our Future
@@ -70,8 +67,6 @@ We’d love to share some moments with you, whether you could be there or not. I
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NhqCq7zOK0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 <div class="img-flex-container">
     <div class="img-flex-sm" style="min-width: 180px">
         <iframe width="315" height="560" src="https://www.youtube.com/embed/T-6OpkLOJ6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -94,7 +89,7 @@ We’d love to share some moments with you, whether you could be there or not. I
         {% include image.html url="/assets/images/proposal/jprh-proposal-22.JPG" description="" %}
     </div>
     <div class="img-flex-md" style="flex: 2.248">
-        {% include image.html url="/assets/images/proposal/jprh-proposal-28.JPG" description="" %}
+        {% include image.html url="/assets/images/proposal/jprh-proposal-28.JPG" description="The Final Surprise" %}
     </div>
 </div>
 <div class="img-flex-container">
@@ -106,5 +101,10 @@ We’d love to share some moments with you, whether you could be there or not. I
     </div>
     <div class="img-flex-sm" style="min-width: 250px">
         {% include image.html url="/assets/images/proposal/jprh-post-41.JPG" description="" %}
+    </div>
+</div>
+<div class="img-flex-container">
+    <div class="img-flex-md" style="min-width: 250px">
+        {% include image.html url="/assets/images/proposal/jprh-group-1.JPG" description="The Whole Gang" %}
     </div>
 </div>
