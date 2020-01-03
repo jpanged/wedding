@@ -8,7 +8,7 @@ permalink: /story/
 
 Rebekah and I wanted to have a place to share more about our story, including how we met to where we'll be heading after the wedding.  While this is just an overview of our nearly ten years together, we'd love to talk more in person if you're curious!
 
-We've broken our story into four parts: Our Past, Our Present, and Our Future. We also thought it would be fun to share more about the proposal and include a video for those who couldn't make it, so that's the last section..
+We've broken our story into four parts: Our Past, Our Present, and Our Future. We also thought it would be fun to share more about the proposal and include a video for those who couldn't make it, so that's the last section.
 
 <a href="#our-past" class="btn btn--past">Our Past</a>
 <a href="#our-present" class="btn btn--present">Our Present</a>
