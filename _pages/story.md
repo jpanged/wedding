@@ -77,34 +77,34 @@ We’d love to share some moments with you, whether you could be there or not. I
         <iframe width="315" height="560" src="https://www.youtube.com/embed/T-6OpkLOJ6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="img-flex-sm" style="min-width: 180px">
-        {% include image.html url="/assets/images/proposal/jprh-pre-78.jpg" description="I definitely don't look nervous" %}
+        {% include image.html url="/assets/images/proposal/jprh-pre-78.JPG" description="I definitely don't look nervous" %}
     </div>
     <div class="img-flex-md" style="flex: 2.248">
-        {% include image.html url="/assets/images/proposal/jprh-proposal-3.jpg" description="Saying words I don't remember" %}
+        {% include image.html url="/assets/images/proposal/jprh-proposal-3.JPG" description="Saying words I don't remember" %}
     </div>
     <div class="img-flex-md" style="flex: 2.248">
-        {% include image.html url="/assets/images/proposal/jprh-proposal-8.jpg" description="The big moment" %}
+        {% include image.html url="/assets/images/proposal/jprh-proposal-8.JPG" description="The big moment" %}
     </div>
 </div>
 <div class="img-flex-container">
     <div class="img-flex-sm" style="min-width: 180px">
-        {% include image.html url="/assets/images/proposal/jprh-proposal-10.jpg" description="" %}
+        {% include image.html url="/assets/images/proposal/jprh-proposal-10.JPG" description="" %}
     </div>
     <div class="img-flex-md" style="flex: 2.248">
-        {% include image.html url="/assets/images/proposal/jprh-proposal-22.jpg" description="" %}
+        {% include image.html url="/assets/images/proposal/jprh-proposal-22.JPG" description="" %}
     </div>
     <div class="img-flex-md" style="flex: 2.248">
-        {% include image.html url="/assets/images/proposal/jprh-proposal-28.jpg" description="" %}
+        {% include image.html url="/assets/images/proposal/jprh-proposal-28.JPG" description="" %}
     </div>
 </div>
 <div class="img-flex-container">
     <div class="img-flex-sm" style="min-width: 250px">
-        {% include image.html url="/assets/images/proposal/jprh-post-7.jpg" description="" %}
+        {% include image.html url="/assets/images/proposal/jprh-post-7.JPG" description="" %}
     </div>
     <div class="img-flex-sm" style="min-width: 250px">
-        {% include image.html url="/assets/images/proposal/jprh-post-11.jpg" description="" %}
+        {% include image.html url="/assets/images/proposal/jprh-post-11.JPG" description="" %}
     </div>
     <div class="img-flex-sm" style="min-width: 250px">
-        {% include image.html url="/assets/images/proposal/jprh-post-41.jpg" description="" %}
+        {% include image.html url="/assets/images/proposal/jprh-post-41.JPG" description="" %}
     </div>
 </div>
