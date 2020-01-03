@@ -4,15 +4,16 @@ layout: story
 permalink: /story/
 ---
 
-Rebekah and I wanted to have a place to share more about our story, including how we met to where we'll be heading after the wedding. We've broken our story into four parts. While this is just an overview of our nearly ten years together, we'd love to talk more in person if you're curious!
+# Our Story
 
-We also thought it would be fun to share more about the proposal and include a video for those who couldn't make it.
+Rebekah and I wanted to have a place to share more about our story, including how we met to where we'll be heading after the wedding.  While this is just an overview of our nearly ten years together, we'd love to talk more in person if you're curious!
+
+We've broken our story into four parts: Our Past, Our Present, and Our Future. We also thought it would be fun to share more about the proposal and include a video for those who couldn't make it, so that's the last section..
 
 <a href="#our-past" class="btn btn--past">Our Past</a>
 <a href="#our-present" class="btn btn--present">Our Present</a>
 <a href="#our-future" class="btn btn--future">Our Future</a>
 <a href="#the-proposal" class="btn btn--proposal">The Proposal</a>
-
 
 ## Our Past
 
@@ -24,18 +25,57 @@ We also thought it would be fun to share more about the proposal and include a v
 
 **R:** Josiah and I have been at the same school since preschool, but our story begins in the percussion section in junior high band. For those of you who know, percussion can get a little boring sometimes while counting rests that we took the opportunity to get to know each other. As awkward pre-teens we slowly built a friendship, joking with each other and sharing about our interests. Josiah was the first to introduce me to Doctor Who, The Office, and Coldplay, all of which are still my favorites today. We grew up together, went to school dances together, and really got to play a big role in each others lives, shaping us into the people we are today. He was and will always be my best friend. 
 
+<div class="img-flex-container">
+    <div class="img-flex-md" style="min-width: 250px">
+        {% include image.html url="/assets/images/sadies2.jpg" description="11th Doctor and Clara" %}
+    </div>
+    <div class="img-flex-md" style="min-width: 250px; flex: 2.37">
+        {% include image.html url="/assets/images/prom2016.jfif" description="Prom 2016" %}
+    </div>
+</div>
+
 We started dating my junior year of high school; he asked me to be his girlfriend on February 6th, 2016, the day I took my ACT. From there, Josiah went off to college at Cal Poly, and we were long distance for a year. Though it was rough, I think it really challenged our relationship and helped us grow closer and stronger. When it was time for me to choose a college, I really wanted a school with a great Animal Science program, a strong fellowship and community, and  nice weather; Cal Poly checked all of my boxes. I’m very blessed that God provided a place for us to both thrive in our majors, serve together, and just be in the same place at the same time. 
+
+<a href="#our-story">^ Back to top</a>
 
 ## Our Present
 
 **J:** God continued to be faithful to us as I we stepped into our first taste of adulthood. Like Rebekah said, I started college a year before she did, choosing to study Computer Science and Entrepreneurship at Cal Poly in the fall of 2016. I quickly found a home away from home with Cru in Epic, an Asian-American fellowship at many university campuses. The mix of new challenges academically and socially truly forced me to redefine my faith and choose to pursue faith for myself. At the intersection of career and faithfulness, choosing the latter has brought only joy and provision. 
 
+<div class="img-flex-container">
+    <div class="img-flex-md" style="min-width: 250px">
+        {% include image.html url="/assets/images/507christmas.jpg" description="507 Christmas" %}
+    </div>
+    <div class="img-flex-md" style="min-width: 250px">
+        {% include image.html url="/assets/images/half.jpg" description="We ran a half marathon with some of our friends" %}
+    </div>
+</div>
+
 When Rebekah eventually chose to study at Cal Poly a year later, real and genuine community is what grew our faith and ultimately our relationship. Before college, our relationship very much felt like our own and isolated from others. Choosing to bring others into our lives and our relationship helped us work on the things that would have the most long term impact. 
 
 I realized how much I sucked at long distance, so we spent much of the 2017-18 school year stepping back to rebuild our relationship. Just like strong and healthy vine must have their branches pruned to bear good fruit, strong biblical relationships must endure the work of [pruning](https://www.thegospelcoalition.org/article/god-prunes-those-he-loves/){:target="_blank"} to expose the areas of our hearts that need work. 
 
+<div class="img-flex-container">
+    <div class="img-flex-md" style="min-width: 250px">
+        {% include image.html url="/assets/images/gktc.jfif" description="Some of our..." %}
+    </div>
+    <div class="img-flex-md" style="min-width: 250px; flex: 3.13">
+        {% include image.html url="/assets/images/kfab.jpg" description="...favorite people" %}
+    </div>
+</div>
+
 Through the ups and downs, we’ve really learned to cherish and value the opportunities to grow closer to one another and Christ through conflict leading to conflict resolution. Living in community has played an immense role in our relationship, and we’re so thankful for the lifelong friends we’ve made both in and out of the classroom.
 
+<div class="img-flex-container">
+    <div class="img-flex-md" style="min-width: 250px; flex:3.55">
+        {% include image.html url="/assets/images/kyoto.jpeg" description="We went on missions together in Japan!" %}
+    </div>
+    <div class="img-flex-md" style="min-width: 125px">
+        {% include image.html url="/assets/images/cambria.jpg" description="This past Christmas at Cambria" %}
+    </div>
+</div>
+
+<a href="#our-story">^ Back to top</a>
 
 ## Our Future
 
@@ -49,6 +89,8 @@ I’ll be graduating with my degree in June 2020. In the meantime, I’m in the 
 
 Like Rebekah mentioned, we’re so excited for this new journey and hope to share glimpses of that with you for the next four years. Hit us up if you’re in Europe!
 
+<a href="#our-story">^ Back to top</a>
+
 ## The Proposal
 
 **J:** I’d say I knew Rebekah was the one after maybe about a year of dating. We’ve been incredibly blessed to have had the chance to essentially grow up with one another, something not many couples get to experience. We had already known each other for over five years at that point, so we were just trying to keep on an upward growth trajectory. 
@@ -61,7 +103,7 @@ Once our details were set, things became real when I created a massive group cha
 
 I was so nervous the day of. Part of the plan was actually hanging out, taking pictures, and catching up for about an hour leading up to the proposal. You can tell by some of the “before” pictures I wasn’t exactly at ease. 
 
-Despite all that, things went way better than expected the day of. We arrived on schedule, had the chance to actually hang out and catch up, and I found the right moment to pop the question. Our family and friends found their way to the location, and Rebekah had no idea any of this was happening. 
+Despite all that, things went way better than expected the day of. We arrived on schedule, had the chance to actually hang out and catch up, and I found the right moment to pop the question. Thanks to Timmy, who was keeping an eye out for our white umbrella picture (which also doubled as the signal), our family and friends found their way to the location, and Rebekah had no idea any of this was happening. 
 
 We’d love to share some moments with you, whether you could be there or not. I handed Kolson my phone and asked him to record my “1 second everyday” video, and he got the whole thing on camera. He also filmed a couple moments from his perspective throughout the afternoon, which I found too funny not to share as well.
 
@@ -111,3 +153,5 @@ We’d love to share some moments with you, whether you could be there or not. I
 
 <br>
 <a href="https://photos.app.goo.gl/eMFrdjcBd9HvfPp56" class="btn btn--primary" target="_blank">More Proposal Pictures</a>
+<br><br>
+<a href="#our-story">^ Back to top</a>
