@@ -38,7 +38,7 @@ We've broken our story into four parts: Our Past, Our Present, and Our Future. W
 
 We started dating my junior year of high school; he asked me to be his girlfriend on February 6th, 2016, the day I took my ACT. From there, Josiah went off to college at Cal Poly, and we were long distance for a year. Though it was rough, I think it really challenged our relationship and helped us grow closer and stronger. When it was time for me to choose a college, I really wanted a school with a great Animal Science program, a strong fellowship and community, and  nice weather; Cal Poly checked all of my boxes. I’m very blessed that God provided a place for us to both thrive in our majors, serve together, and just be in the same place at the same time. 
 
-<a href="#our-story">Back To Top</a>
+<a href="#our-story" style="font-size: 0.75em">Back To Top</a>
 
 <a class="link" id="ourPresent">
 
@@ -79,7 +79,7 @@ Through the ups and downs, we’ve really learned to cherish and value the oppor
     </div>
 </div>
 
-<a href="#our-story">Back To Top</a>
+<a href="#our-story" style="font-size: 0.75em">Back To Top</a>
 
 <a class="link" id="ourFuture">
 
@@ -95,7 +95,7 @@ I’ll be graduating with my degree in June 2020. In the meantime, I’m in the 
 
 Like Rebekah mentioned, we’re so excited for this new journey and hope to share glimpses of that with you for the next four years. Hit us up if you’re in Europe!
 
-<a href="#our-story">Back To Top</a>
+<a href="#our-story" style="font-size: 0.75em">Back To Top</a>
 
 <a class="link" id="theProposal">
 
@@ -162,4 +162,4 @@ We’d love to share some moments with you, whether you could be there or not. I
 <br>
 <a href="https://photos.app.goo.gl/eMFrdjcBd9HvfPp56" class="btn btn--primary" target="_blank">More Proposal Pictures</a>
 <br><br>
-<a href="#our-story">Back To Top</a>
+<a href="#our-story" style="font-size: 0.75em">Back To Top</a>
