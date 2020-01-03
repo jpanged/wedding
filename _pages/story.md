@@ -11,9 +11,9 @@ Rebekah and I wanted to have a place to share more about our story, including ho
 We've broken our story into four parts: Our Past, Our Present, and Our Future. We also thought it would be fun to share more about the proposal and include a video for those who couldn't make it, so that's the last section.
 
 <a href="#ourPast" class="btn btn--past">Our Past</a>
-<a href="#ourPresent" class="btn btn--present">Our Present</a>
-<a href="#ourFuture" class="btn btn--future">Our Future</a>
-<a href="#theProposal" class="btn btn--proposal">The Proposal</a>
+<a href="#ourPresent" class="btn btn--past">Our Present</a>
+<a href="#ourFuture" class="btn btn--past">Our Future</a>
+<a href="#theProposal" class="btn btn--past">The Proposal</a>
 
 <a class="link" id="ourPast">
 
@@ -25,7 +25,7 @@ We've broken our story into four parts: Our Past, Our Present, and Our Future. W
     </div>
 </div>
 
-**R:** Josiah and I have been at the same school since preschool, but our story begins in the percussion section in junior high band. For those of you who know, percussion can get a little boring sometimes while counting rests that we took the opportunity to get to know each other. As awkward pre-teens we slowly built a friendship, joking with each other and sharing about our interests. Josiah was the first to introduce me to Doctor Who, The Office, and Coldplay, all of which are still my favorites today. We grew up together, went to school dances together, and really got to play a big role in each others lives, shaping us into the people we are today. He was and will always be my best friend. 
+**R:** Josiah and I have been at the same school since preschool, but our story begins in the percussion section in junior high band. For those of you who know, percussion can get a little boring sometimes while counting rests that we took the opportunity to get to know each other. As awkward pre-teens we slowly built a friendship, joking with each other and sharing about our interests. Josiah was the first to introduce me to *Doctor Who*, *The Office*, and Coldplay, all of which are still my favorites today. We grew up together, went to school dances together, and really got to play a big role in each others lives, shaping us into the people we are today. He was and will always be my best friend. 
 
 <div class="img-flex-container">
     <div class="img-flex-md" style="min-width: 250px">

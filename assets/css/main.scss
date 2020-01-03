@@ -307,6 +307,10 @@ a.link {
     visibility: hidden;
 }
 
+ul li.visible-links:first-of-type {
+    font-weight: bold;
+}
+
 // How splash image appears for mobile devices
 @media only screen and (max-width: 600px) {
     body .splash-container {
