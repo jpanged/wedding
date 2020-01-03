@@ -10,10 +10,12 @@ Rebekah and I wanted to have a place to share more about our story, including ho
 
 We've broken our story into four parts: Our Past, Our Present, and Our Future. We also thought it would be fun to share more about the proposal and include a video for those who couldn't make it, so that's the last section.
 
-<a href="#our-past" class="btn btn--past">Our Past</a>
-<a href="#our-present" class="btn btn--present">Our Present</a>
-<a href="#our-future" class="btn btn--future">Our Future</a>
-<a href="#the-proposal" class="btn btn--proposal">The Proposal</a>
+<a href="#ourPast" class="btn btn--past">Our Past</a>
+<a href="#ourPresent" class="btn btn--present">Our Present</a>
+<a href="#ourFuture" class="btn btn--future">Our Future</a>
+<a href="#theProposal" class="btn btn--proposal">The Proposal</a>
+
+<a class="link" id="ourPast">
 
 ## Our Past
 
@@ -37,6 +39,8 @@ We've broken our story into four parts: Our Past, Our Present, and Our Future. W
 We started dating my junior year of high school; he asked me to be his girlfriend on February 6th, 2016, the day I took my ACT. From there, Josiah went off to college at Cal Poly, and we were long distance for a year. Though it was rough, I think it really challenged our relationship and helped us grow closer and stronger. When it was time for me to choose a college, I really wanted a school with a great Animal Science program, a strong fellowship and community, and  nice weather; Cal Poly checked all of my boxes. I’m very blessed that God provided a place for us to both thrive in our majors, serve together, and just be in the same place at the same time. 
 
 <a href="#our-story">Back To Top</a>
+
+<a class="link" id="ourPresent">
 
 ## Our Present
 
@@ -77,6 +81,8 @@ Through the ups and downs, we’ve really learned to cherish and value the oppor
 
 <a href="#our-story">Back To Top</a>
 
+<a class="link" id="ourFuture">
+
 ## Our Future
 
 **R:** Like I said previously, Cal Poly has an incredible Animal Science program and I have loved every minute of it. From baby horse care to dairy product judging to marine mammal rescuing, I have truly been living the dream of my five-year-old self. One of the main reasons I chose Cal Poly was because of their sister school exchange program with a school in Scotland called *The Royal (Dick) School of Veterinary Studies at the University of Edinburgh*. 
@@ -90,6 +96,8 @@ I’ll be graduating with my degree in June 2020. In the meantime, I’m in the 
 Like Rebekah mentioned, we’re so excited for this new journey and hope to share glimpses of that with you for the next four years. Hit us up if you’re in Europe!
 
 <a href="#our-story">Back To Top</a>
+
+<a class="link" id="theProposal">
 
 ## The Proposal
 
@@ -120,7 +128,7 @@ We’d love to share some moments with you, whether you could be there or not. I
         {% include image.html url="/assets/images/proposal/jprh-proposal-3.JPG" description="Saying words I don't remember" %}
     </div>
     <div class="img-flex-md" style="flex: 2.248">
-        {% include image.html url="/assets/images/proposal/jprh-proposal-8.JPG" description="The big moment" %}
+        {% include image.html url="/assets/images/proposal/jprh-proposal-8.JPG" description="The Big Moment" %}
     </div>
 </div>
 <div class="img-flex-container">
@@ -142,7 +150,7 @@ We’d love to share some moments with you, whether you could be there or not. I
         {% include image.html url="/assets/images/proposal/jprh-post-11.JPG" description="" %}
     </div>
     <div class="img-flex-sm" style="min-width: 250px">
-        {% include image.html url="/assets/images/proposal/jprh-post-41.JPG" description="" %}
+        {% include image.html url="/assets/images/proposal/jprh-post-41.JPG" description="Our Parents" %}
     </div>
 </div>
 <div class="img-flex-container">
