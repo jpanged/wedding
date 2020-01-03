@@ -105,7 +105,7 @@ We’d love to share some moments with you, whether you could be there or not. I
 </div>
 <div class="img-flex-container">
     <div class="img-flex-md" style="min-width: 250px">
-        {% include image.html url="/assets/images/proposal/jprh-group-1.JPG" description="The Whole Gang" %}
+        {% include image.html url="/assets/images/proposal/jprh-group-1.jpg" description="The Whole Gang" %}
     </div>
 </div>
 
