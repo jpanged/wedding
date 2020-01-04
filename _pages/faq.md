@@ -39,7 +39,7 @@ Unfortunately there is a limit on the guests we can invite. We have listed the n
 June 27, 2019, 2pm
 
 ### Where is the wedding?
-The ceremony and reception will be held at Castle Noland.
+The ceremony and reception will be held at Castle Noland, which is an outdoor venue.
 
 ### Can I take pictures?
 We have paid for professional photography to capture how the wedding looks, but we have invited you so you may capture how it feels. Use our [hashtag](https://www.instagram.com/explore/tags/HandranToPang/){:target="_blank"}! We ask you silence your electronics during our ceremony to ensure you are in the moment. Some of these photos will be posted online afterwards for your viewing purposes.

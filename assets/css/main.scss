@@ -307,10 +307,16 @@ a.link {
     visibility: hidden;
 }
 
-ul li.visible-links:first-of-type {
-    font-weight: bold;
+.insta {
+    flex: 1;
+    max-width: 20em;
 }
 
+.insta-text {
+    align-self: center;
+    min-width: 300px;
+    flex: 1;
+}
 // How splash image appears for mobile devices
 @media only screen and (max-width: 600px) {
     body .splash-container {

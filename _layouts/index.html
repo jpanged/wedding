@@ -28,10 +28,12 @@ layout: default
 
     <section class="page__content" itemprop="text">
 
+      {{ content }}
+
       <div class="index-container">
         <div id="details" class="anchor"></div>
         <h1>The Details</h1>
-        <p>Saturday, June 27 2020</p>
+        <p>Saturday, June 27, 2020</p>
         <p>Ceremony starts at 2pm</p>
       </div>
 
@@ -41,9 +43,17 @@ layout: default
           <h1>The Venue</h1>
           <p>Castle Noland</p>
           <p>6445 Monte Rd.<br>San Luis Obispo, CA 93401</p>
-        </div>
+          <i>The ceremony and reception will be outdoors!</i>
+      </div>
 
-      {{ content }}
+      <div class="img-flex-container">
+        <img src="assets/images/instagram.png" class="insta" alt="instagram hashtag">
+        <div class="insta-text">
+          <h1 style="margin-top: 0;">Test</h1>
+          <p>This is test text.</p>
+        </div>
+      </div>
+
     </section>
   </article>
 </div>

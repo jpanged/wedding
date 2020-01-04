@@ -6,7 +6,7 @@ permalink: /party/
 
 # The Wedding Party
 
-## Braidsmaids
+## Bridesmaids
 
 <div class="img-flex-container">
     <img class="img-flex" style="border-radius: 50%" src="../assets/images/grace.jfif" alt="Grace Khieu">
