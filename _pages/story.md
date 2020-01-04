@@ -44,7 +44,7 @@ We started dating my junior year of high school; he asked me to be his girlfrien
 
 ## Our Present
 
-**J:** God continued to be faithful to us as I we stepped into our first taste of adulthood. Like Rebekah said, I started college a year before she did, choosing to study Computer Science and Entrepreneurship at Cal Poly in the fall of 2016. I quickly found a home away from home with Cru in Epic, an Asian-American fellowship at many university campuses. The mix of new challenges academically and socially truly forced me to redefine my faith and choose to pursue faith for myself. At the intersection of career and faithfulness, choosing the latter has brought only joy and provision. 
+**J:** God continued to be faithful to us as we stepped into our first taste of adulthood. Like Rebekah said, I started college a year before she did, choosing to study Computer Science and Entrepreneurship at Cal Poly in the fall of 2016. I quickly found a home away from home with Cru in Epic, an Asian-American fellowship at many university campuses. The mix of new challenges academically and socially truly forced me to redefine my faith and choose to pursue faith for myself. At the intersection of career and faithfulness, choosing the latter has brought only joy and provision. 
 
 <div class="img-flex-container">
     <div class="img-flex-md" style="min-width: 250px">

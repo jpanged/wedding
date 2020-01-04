@@ -151,7 +151,7 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 }
 
 .index-container p {
-    margin: 0 0 0.5em;
+    margin: 0 auto 0.5em !important;
 }
 
 .page__content {
@@ -336,5 +336,21 @@ a.link {
 
     body .form-container {
         padding-bottom: 150%;
+    }
+
+    body .page__footer {
+        text-align: center;
+    }
+}
+
+// Controls content max width
+@media (min-width: 80em) {
+    #main {
+        // max-width: 1024px;
+        max-width: 1400px;
+    }
+    #main p {
+        max-width: 1024px;
+        margin: 0 auto 1.3em auto;
     }
 }

@@ -4,7 +4,8 @@ layout: accommodations
 permalink: /accommodations/
 ---
 
-These hotels are close to the venue, but feel free to check out other options as well! There are a plethora of inns and even Airbnb options around SLO or even Pismo Beach.  
+These hotels are close to the venue, but feel free to check out other options as well! There are a plethora of inns and even Airbnb options around SLO or even Pismo Beach. 
+ 
 We hope you can turn this into a nice weekend getaway to our favorite city. We've even included some fun places below to check out if you're unfamiliar with the area.
 
 ### [Courtyard San Luis Obispo](https://www.marriott.com/hotels/travel/sbpcy-courtyard-san-luis-obispo/){:target="_blank"}

@@ -12,6 +12,8 @@ permalink: /
 # excerpt: "Josiah and Rebekah are getting married on June 27, 2020!"
 ---
 
+# Hello!
+
 Welcome to our wedding website, we can’t wait to celebrate our special day with you!
 
 We’ve created this website as a virtual home for our wedding in the months leading up as well as the day of. Grab your invitation code and head over to the [RSVP](../rsvp){:target="_blank"} page to view a special video from us.
