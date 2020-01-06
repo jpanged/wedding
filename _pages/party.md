@@ -16,6 +16,14 @@ permalink: /party/
     </div>
 </div>
 
+<div class="img-flex-container">
+    <img class="img-flex" style="border-radius: 50%" src="../assets/images/rachel.jpg" alt="Rachel Loh">
+    <div style="flex: 3; min-width: 250px">
+        <h3>Rachel Loh</h3>
+        <p>I feel so blessed that I met Rebekah through our Christian fellowship, Epic!  One of my most cherished memories with her is actually when we had our first one on one.  We were sitting in 805 (the dining area) and we started to share our struggles and from that moment I knew she was going to be an amazing and genuine friend.  Since then, I have loved hanging with her, living with her, and knocking on her door to say hey!  Fun fact: my dog has more followers on instagram than me.
+        </p>
+    </div>
+</div>
 
 ## Groomsmen
 
