@@ -13,7 +13,7 @@ layout: default
   <h1 class="splash-txt">
       We're getting married!
   </h1>
-  <a class="splash-btn" href="#details">
+  <a class="splash-btn" href="#content">
       <i class="fa fa-angle-down"></i>
   </a>
 </div>
@@ -27,11 +27,11 @@ layout: default
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
 
     <section class="page__content" itemprop="text">
+      <div id="content" class="anchor"></div>
 
       {{ content }}
 
       <div class="index-container">
-        <div id="details" class="anchor"></div>
         <h1>The Details</h1>
         <p>Saturday, June 27, 2020</p>
         <p>Ceremony starts at 2pm</p>
