@@ -38,6 +38,14 @@ permalink: /party/
         </div>
     </div>
     <div class="img-flex-container">
+        <img class="img-flex" style="border-radius: 50%" src="../assets/images/ephraim.jpg" alt="Ephraim Pang">
+        <div style="flex: 3; min-width: 250px">
+            <h3>Ephraim Pang</h3>
+            <p>As Josiah's younger brother I've known him for practically my whole life. Josiah has always been someone that I look up to and has been a great role model in my life. Much of our time spent together was growing up when we would play with our toys together, (nerf guns and pokemon cards) admittedly also some of my fondest memories with Josiah. Fun fact: I enjoy watching Gordon Ramsay and cooking shows.
+            </p>
+        </div>
+    </div>
+    <div class="img-flex-container">
         <img class="img-flex" style="border-radius: 50%" src="../assets/images/kyle.jpg" alt="Kyle Chin">
         <div style="flex: 3; min-width: 250px">
             <h3>Kyle Chin</h3>
