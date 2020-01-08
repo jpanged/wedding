@@ -44,7 +44,7 @@ With that being said, plan to arrive at the venue by 1:45pm to park and find a s
 The ceremony and reception will be held at Castle Noland.
 
 ### Will the wedding be indoors or outdoors?
-Our wedding will mostly be outdoors. There will be a chance to check out the inside of the castle (which is super cool), but plan to be outside for most of the time. See the question on weather.
+Our wedding will be outdoors. There will be a chance to check out the inside of the castle (which is super cool), but plan to be outside for most of the time. See the question on weather.
 
 ### Is there a wedding hashtag?
 Yep! Feel free to use [#HandranToPang](https://www.instagram.com/explore/tags/HandranToPang/){:target="_blank"} to help share your night with us and others!
