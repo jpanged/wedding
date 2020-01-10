@@ -27,7 +27,7 @@ permalink: /party/
         <img class="img-flex" style="border-radius: 50%" src="../assets/images/kenna.jpg" alt="Kenna Doeden">
         <div style="flex: 3; min-width: 250px">
             <h3>Kenna Doeden</h3>
-            <p>[WIP]</p>
+            <p>Rebekah was one of the first people that I met in Epic! I distinctly remember meeting her through a freshman community group gathering at YoCre, and we have since bonded over a shared love of veterinary medicine and animal science. Some of my favorite memories with Rebekah involve spontaneous late night cramming interspersed with thoughtful conversation and bouts of laughter. Fun fact: I have lived over 4 months of my life on a houseboat!</p>
         </div>
     </div>
     <div class="img-flex-container">
