@@ -10,10 +10,10 @@ permalink: /party/
 
 <div class="party-container">
     <div class="img-flex-container">
-        <img class="img-flex" style="border-radius: 50%" src="../assets/images/rachelh.jpg" alt="Rachel Handran">
+        <img class="img-flex" style="border-radius: 50%" src="../assets/images/rachelh.png" alt="Rachel Handran">
         <div style="flex: 3; min-width: 250px">
             <h3>Rachel Handran - <i>Maid of Honor</i></h3>
-            <p>[WIP]</p>
+            <p>I met Rebekah in my first year at Hogwarts as we were both in Defense Against the Dark Arts. We enjoyed a friendly rivalry between our houses in Quidditch. Fun fact: I'm in Ravenclaw 💙🦅🏅🏆📚🏰</p>
         </div>
     </div>
     <div class="img-flex-container">
@@ -52,18 +52,18 @@ permalink: /party/
         </div>
     </div>
     <div class="img-flex-container">
-        <img class="img-flex" style="border-radius: 50%" src="../assets/images/ephraim.jpg" alt="Ephraim Pang">
-        <div style="flex: 3; min-width: 250px">
-            <h3>Ephraim Pang</h3>
-            <p>As Josiah's younger brother I've known him for practically my whole life. Josiah has always been someone that I look up to and has been a great role model in my life. Much of our time spent together was growing up when we would play with our toys together, (nerf guns and pokemon cards) admittedly also some of my fondest memories with Josiah. Fun fact: I enjoy watching Gordon Ramsay and cooking shows.
-            </p>
-        </div>
-    </div>
-    <div class="img-flex-container">
         <img class="img-flex" style="border-radius: 50%" src="../assets/images/kyle.jpg" alt="Kyle Chin">
         <div style="flex: 3; min-width: 250px">
             <h3>Kyle Chin</h3>
             <p>I met Josiah through Epic SLO his first year, but what brought us closer was the fact that we switched majors at the same time. I was only a year ahead of him, but I had done enough to want to save him from another year of boring hardware classes (sorry EEs). Eventually, I had the opportunity to disciple him and our friendship only grew stronger. One of my favorite memories is doing an escape room where Josiah took control and we barely escaped. I’m a big Star Wars and Marvel fan, but let’s be real, Iron Man’s snap was way cooler than Rey changing her last name to Skywalker… oops spoilers. <br>¯\_(ツ)_/¯
+            </p>
+        </div>
+    </div>
+    <div class="img-flex-container">
+        <img class="img-flex" style="border-radius: 50%" src="../assets/images/ephraim.jpg" alt="Ephraim Pang">
+        <div style="flex: 3; min-width: 250px">
+            <h3>Ephraim Pang</h3>
+            <p>As Josiah's younger brother I've known him for practically my whole life. Josiah has always been someone that I look up to and has been a great role model in my life. Much of our time spent together was growing up when we would play with our toys together, (nerf guns and pokemon cards) admittedly also some of my fondest memories with Josiah. Fun fact: I enjoy watching Gordon Ramsay and cooking shows.
             </p>
         </div>
     </div>
