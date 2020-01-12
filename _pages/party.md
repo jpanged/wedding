@@ -13,7 +13,7 @@ permalink: /party/
         <img class="img-flex" style="border-radius: 50%" src="../assets/images/rachelh.png" alt="Rachel Handran">
         <div style="flex: 3; min-width: 250px">
             <h3>Rachel Handran - <i>Maid of Honor</i></h3>
-            <p>I met Rebekah in my first year at Hogwarts as we were both in Defense Against the Dark Arts. We enjoyed a friendly rivalry between our houses in Quidditch. Fun fact: I'm in Ravenclaw 💙🦅🏅🏆📚🏰</p>
+            <p>Hi! My name is Rachel, and I’m Rebekah’s sister. We’ve grown up together, and she’s always been my role model. There are so many countless memories we’ve made over the years, including our trips to San Francisco and Monterey. Fun fact: I fostered kittens and have 2 cats!</p>
         </div>
     </div>
     <div class="img-flex-container">
@@ -71,8 +71,9 @@ permalink: /party/
         <img class="img-flex" style="border-radius: 50%" src="../assets/images/russell.jpg" alt="Russell Caletena">
         <div style="flex: 3; min-width: 250px">
             <h3>Russell Caletena</h3>
-            <p>I first met Josiah through Robotics Club and IEEE during our freshman year at Cal Poly. He introduced me to Epic soon after and our friendship continued to grow where we bonded over deep conversations on life, hackathons, candle making, and a sausage-making class. I’ll always cherish the memory where Josiah and I ran the entire 2019 SLO Half Marathon by each other’s side showing me that this race we call life is meant to be endured together with good friends who can continuously challenge you along the way. Fun Fact: Josiah and I met Phil from Wong Fu Productions at the soft opening of his Bopomofo Cafe last year.
+            <p>I first met Josiah through Robotics Club and IEEE during our freshman year at Cal Poly. He introduced me to Epic soon after and our friendship continued to grow where we bonded over deep conversations on life, hackathons, candle making, and a sausage-making class. I’ll always cherish the memory where Josiah and I ran the entire 2019 SLO Half Marathon by each other’s side showing me that this race we call life is meant to be endured together with good friends who can continuously challenge you along the way. Fun fact: <a href="https://photos.app.goo.gl/5zZhmf3uq9f5jhmY7" target="_blank">Josiah and I met Phil from Wong Fu Productions at the soft opening of his Bopomofo Cafe last year.</a>
             </p>
         </div>
     </div>
 </div>
+
