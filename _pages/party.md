@@ -10,7 +10,7 @@ permalink: /party/
 
 <div class="party-container">
     <div class="img-flex-container">
-        <img class="img-flex" style="border-radius: 50%" src="../assets/images/rachelh.png" alt="Rachel Handran">
+        <img class="img-flex" style="border-radius: 50%" src="../assets/images/rachelh.jpg" alt="Rachel Handran">
         <div style="flex: 3; min-width: 250px">
             <h3>Rachel Handran - <i>Maid of Honor</i></h3>
             <p>Hi! My name is Rachel, and I’m Rebekah’s sister. We’ve grown up together, and she’s always been my role model. There are so many countless memories we’ve made over the years, including our trips to San Francisco and Monterey. Fun fact: I fostered kittens and have 2 cats!</p>
