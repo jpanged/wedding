@@ -21,7 +21,7 @@ We have a list of nearby hotels on our [Accommodations](../accommodations){:targ
 Yes. There is plenty of parking, but carpooling is always encouraged.
 
 ### Can I bring my kids?
-Because of the nature of our wedding and venue, we will be having an adults only ceremony and reception. Please contact us if you have questions!
+Because of the nature of our wedding and venue, we are asking parents to not bring their young children. Please contact us if you have questions!
 
 ### What if I have a dietary restriction?
 If you have specific concerns or allergies, please make sure to mention it in your RSVP. Contact us if you have additional concerns.
