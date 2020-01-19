@@ -12,6 +12,8 @@ This project allowed me to dive deeper into front end development and put my HTM
 
 The goal was to create a light and minimal yet information rich website to act as a virtual home for our wedding. We wanted to showcase our love story as well as share moments throughout our time together. 
 
+Additionally, I was able to explore site metrics and statistics through the use of Google Analytics to track how people were using our site as invitations went out.
+
 In the months leading up to the wedding, our hope was for the website to have all the information and details to answers questions our guests might have. Additionally, we created a place to share our story and highlights some of our favorite pictures over the years. 
 
 For the day of the wedding, the website will continue to serve its informational purpose by hosting relevant information to the event in a new section. From having the schedule to table assignments, we hope to eliminate paper waste and save money by using a virtual platform.
