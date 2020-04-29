@@ -16,7 +16,7 @@ For the safety of our guests, we have decided to postpone our wedding to **next 
 
 Both hotel accommodations and airlines are mostly offering lenient ticket change policies, so we suggest reaching out to them directly.
 
-While we are sad to delay our celebration and cause changes to your plans, the safety of our loved ones is our utmost priority. We will post updates to our website and also send out updates via email. 
+While we are sad to delay our celebration and cause changes to your plans, the safety of our loved ones is our utmost priority. We will let you know of any other updates, and will also plan to redo the RSVP process once the time comes. 
 
 Please contact us directly with any questions. Thank you for your love, patience, and concern. We cannot wait to celebrate with you all!
 
