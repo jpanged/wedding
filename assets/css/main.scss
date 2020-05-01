@@ -35,7 +35,7 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
 .masthead {
     position: -webkit-sticky;
     position: sticky;
-    top: 0px;
+    top: -1px;
     background: rgba(0, 47, 105, 0.95);
 }
 
@@ -324,6 +324,28 @@ a.link {
     max-width: 1024px;
     margin: 0 auto;
 }
+
+.covid-banner {
+    background-color: #f2c75c;
+    color: #000;
+}
+
+.covid-link {
+    color: #000;
+    text-decoration: none;
+}
+
+.covid-link:visited {
+    color: #000;
+}
+
+.virus-icon {
+    float:left; 
+    margin-right: 10px; 
+    margin-left: 25px; 
+    margin-top: 3px;
+}
+
 
 // How splash image appears for mobile devices
 @media only screen and (max-width: 600px) {
