@@ -44,4 +44,4 @@ Avila Beach
 Pirate's Cove  
 Bishop's Peak  
 Spooner's Cove (where we got engaged)  
-The Grad (line dancing afterparty?)  
+[~~The Grad (line dancing afterparty?)  ~~](https://www.ksby.com/news/local-news/the-graduate-in-san-luis-obispo-to-close-down-after-45-years) :'(
