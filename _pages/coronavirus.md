@@ -14,7 +14,7 @@ As we’ve been watching the pandemic situation unfold over the past year, we ha
 
 Ultimately, it just didn’t make sense to have a large gathering and we didn’t want to filter down our guest list. While we know this is disappointing, we hope you can understand why this was the best decision for us.
 
-On the bright side, we held a small backyard wedding with our immediate family on the original date (June 27th, 2020) and have included some photos below. While we weren’t able to have the ceremony we initially planned, we were incredibly grateful to have a strong start to our marriage. This was actually our second ceremony, as we obtained our marriage certificate last February on our 4th anniversary when we started our UK visa process.  
+On the bright side, we held a small backyard wedding with our immediate family on the original date (June 27th, 2020). While we weren’t able to have the ceremony we initially planned, we were incredibly grateful to have a strong start to our marriage. This was actually our second ceremony, as we obtained our marriage certificate last February on our 4th anniversary when we started our UK visa process. 
 
 Again, please feel free to contact us with questions. We are so appreciative of you all and send our love! 
 
@@ -25,7 +25,7 @@ Again, please feel free to contact us with questions. We are so appreciative of 
 **P.S.**  
 We just released a short update video on how things have been for us recently. The big news is that we have just bought our first house here in Edinburgh! We’d love to have some visitors when international travel starts to open up.
 
-<iframe width="280" src="https://youtu.be/oaLXWD-qAY8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oaLXWD-qAY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 *May 1, 2020*
