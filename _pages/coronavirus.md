@@ -25,7 +25,10 @@ Again, please feel free to contact us with questions. We are so appreciative of 
 **P.S.**  
 We just released a short update video on how things have been for us recently. The big news is that we have just bought our first house here in Edinburgh! We’d love to have some visitors when international travel starts to open up.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oaLXWD-qAY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="display: block; width: 50%;">
+<br>
+<iframe style="left:50%;" width="280" src="https://www.youtube.com/embed/oaLXWD-qAY8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 *May 1, 2020*
