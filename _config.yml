@@ -23,6 +23,10 @@ github_username: jpanged
 minimal_mistakes_skin: default
 search: false
 
+# Routing
+url: https://jpanged.github.io
+baseurl: /wedding/
+
 # Google Analytics
 google_analytics: UA-155137144-1
 
