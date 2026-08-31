@@ -1,4 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
-Gemfile.lock
+
+# Local bundler install (project-local gems)
+vendor/
+.bundle/

@@ -1,0 +1,45 @@
+{% comment %}
+  Local override of the theme's _includes/scripts.html.
+
+  The minimal-mistakes 4.19 gem hard-codes the theme author's personal
+  Font Awesome *kit* (kit.fontawesome.com/4eee35f757.js) as the default
+  footer script. That kit is domain-locked to their account, so it never
+  loads icons on this site (local dev or our own domain) -- which is why
+  heading permalinks and social icons showed no glyph.
+
+  We replace it with the public Font Awesome 6 free CDN. The v4 shim keeps
+  legacy `fa fa-*` class names working alongside the newer `fas`/`fab`.
+{% endcomment %}
+
+{% if site.footer_scripts %}
+  {% for script in site.footer_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% else %}
+  <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+{% endif %}
+
+<!-- Font Awesome 6 (free) via CDN, plus v4 shim for legacy `fa fa-*` names -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha384-PPIZEGYM1v8zp5Py7UjFb79S58UeqCL9pYVnVPURKEqvioPROaVAJKKLzvH2rDnI" crossorigin="anonymous" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/v4-shims.min.css" integrity="sha384-XyvK/kKwgVW+fuRkusfLgfhAMuaxLPSOY8W7wj8tUkf0Nr2WGHniPmpdu+cmPS5n" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+{% if site.search == true or page.layout == "search" %}
+  {%- assign search_provider = site.search_provider | default: "lunr" -%}
+  {%- case search_provider -%}
+    {%- when "lunr" -%}
+      {% include_cached search/lunr-search-scripts.html %}
+    {%- when "google" -%}
+      {% include_cached search/google-search-scripts.html %}
+    {%- when "algolia" -%}
+      {% include_cached search/algolia-search-scripts.html %}
+  {%- endcase -%}
+{% endif %}
+
+{% include analytics.html %}
+{% include /comments-providers/scripts.html %}
+
+{% if site.after_footer_scripts %}
+  {% for script in site.after_footer_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% endif %}

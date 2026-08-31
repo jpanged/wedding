@@ -200,6 +200,24 @@ $sans-serif : "Montserrat", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe 
     padding-top: 4em; 
 }
 
+// The permalink anchor injected into headings uses `.sr-only` for its
+// "Permalink" label, but this theme only defines `.screen-reader-text`,
+// so the label was never hidden and showed as visible text on hover.
+// Define the standard visually-hidden pattern. This also removes the label
+// from the heading's line box, so centered headings (.page__content is
+// text-align:center) center on the visible text, not text + label.
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
 figure {
     flex-direction: column;
     align-items: center;

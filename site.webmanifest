@@ -1,14 +1,18 @@
+---
+# Front matter (even empty) makes Jekyll process Liquid so relative_url
+# picks up the site baseurl for the icon paths below.
+---
 {
     "name": "",
     "short_name": "",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "{{ '/android-chrome-192x192.png' | relative_url }}",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-256x256.png",
+            "src": "{{ '/android-chrome-256x256.png' | relative_url }}",
             "sizes": "256x256",
             "type": "image/png"
         }

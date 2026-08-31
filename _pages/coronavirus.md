@@ -20,7 +20,7 @@ Again, please feel free to contact us with questions. We are so appreciative of 
 
 ❤️,
 
-![Rebekah & Josiah](/assets/images/sig.png){:width="25%"}
+<img src="{{ '/assets/images/sig.png' | relative_url }}" alt="Rebekah & Josiah" width="25%" />
 
 **P.S.**  
 We just released a short update video on how things have been for us recently. The big news is that we have just bought our first house here in Edinburgh! We’d love to have some visitors when international travel starts to open up.
@@ -49,7 +49,7 @@ Please contact us directly with any questions. Thank you for your love, patience
 
 ❤️,
 
-![Rebekah & Josiah](/assets/images/sig.png){:width="25%"}
+<img src="{{ '/assets/images/sig.png' | relative_url }}" alt="Rebekah & Josiah" width="25%" />
 
 
 **P.S.**  

@@ -5,7 +5,7 @@ permalink: /faq/
 ---
 
 ### How/when do I RSVP?
-Please RSVP using the link on the top of this site by the date listed on your invitation. You can also click [here](../rsvp){:target="_blank"}.
+Please RSVP using the link on the top of this site by the date listed on your invitation. You can also click [here]({{ '/rsvp/' | relative_url }}){:target="_blank"}.
 
 ### Do I have to RSVP? Can't I just tell you I'm going to be there (or not)?
  Yes. Please RSVP.
@@ -15,7 +15,7 @@ SLO is known for its warm and sunny weather, so we're expecting temperatures fro
  is last year's forecast around this time in SLO.
 
 ### Where should I stay?
-We have a list of nearby hotels on our [Accommodations](../accommodations){:target="_blank"} page, but SLO also has a wide variety of options available including great Airbnbs. 
+We have a list of nearby hotels on our [Accommodations]({{ '/accommodations/' | relative_url }}){:target="_blank"} page, but SLO also has a wide variety of options available including great Airbnbs. 
 
 ### Can I park at the venue?
 Yes. There is plenty of parking, but carpooling is always encouraged.
@@ -36,7 +36,7 @@ Unfortunately there is a limit on the guests we can invite. We have listed the n
 June 27, 2020. The ceremony will start at 2pm.
 
 ### When should I arrive?
-We hope you'll take the time to spend your weekend in SLO if you have the chance! Check out our [accommodations](../accommodations){:target="_blank"} page for a few of our recommended spots around the city. If you're driving up Saturday morning, it takes about 3.5 hours from both the Bay Area or LA.
+We hope you'll take the time to spend your weekend in SLO if you have the chance! Check out our [accommodations]({{ '/accommodations/' | relative_url }}){:target="_blank"} page for a few of our recommended spots around the city. If you're driving up Saturday morning, it takes about 3.5 hours from both the Bay Area or LA.
 
 With that being said, plan to arrive at the venue by 1:45pm to park and find a seat. There's generally no traffic around SLO, and our venue is about 12 minutes away from downtown SLO. Please plan accordingly!
 
@@ -53,7 +53,7 @@ Yep! Feel free to use [#HandranToPang](https://www.instagram.com/explore/tags/Ha
 We have paid for professional photography to capture how the wedding looks, but we have invited you so you may capture how it feels. Use our [hashtag](https://www.instagram.com/explore/tags/HandranToPang/){:target="_blank"}! We ask you silence your electronics during our ceremony to ensure you are in the moment. Some of these photos will be posted online afterwards for your viewing purposes.
 
 ### Where are you registered?
-Check out our [Registry](../registry){:target="_blank"} page for more information!
+Check out our [Registry]({{ '/registry/' | relative_url }}){:target="_blank"} page for more information!
 
 ### What do I do if something changes and I can/can't make it after I have RSVPed?
 We understand things come up. Just contact us right away so we can make changes.
